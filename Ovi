@@ -60,9 +60,4 @@ void käsky()
         }
     }
 }
-
-
-
-
-
 enum ovi {auki, kiinni, lukossa};
