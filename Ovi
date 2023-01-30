@@ -1,0 +1,68 @@
+ovi oviState = ovi.auki;
+string komento;
+Main();
+void Main()
+{
+    Console.WriteLine($"Ovi on {oviState}, mitä haluat tehdä");
+    komento = Console.ReadLine();
+    käsky();
+}
+void käsky()
+{
+    if (komento == null)
+    {
+        Console.WriteLine("Nekru anna vastaus");
+    }
+
+    if (oviState == ovi.auki)
+    {
+        if (komento == "sulje")
+        {
+            oviState = ovi.kiinni;
+            Main();
+        }
+        else{
+            Console.WriteLine("Ei toimiva vastaus");
+            Main();
+        }
+
+    }
+    if (oviState == ovi.kiinni)
+    {
+        if (komento == "lukitse")
+        {
+            oviState = ovi.lukossa;
+            Main();
+        }
+
+        if (komento == "lukitse")
+        {
+            oviState = ovi.auki;
+            Main();
+        }
+        else
+        {
+            Console.WriteLine("Ei toimiva vastaus");
+            Main();
+        }
+    }
+    if (oviState == ovi.lukossa)
+    {
+        if (komento == "avaa lukitus")
+        {
+            oviState = ovi.kiinni;
+            Main();
+        }
+        else
+        {
+            Console.WriteLine("Ei toimiva vastaus");
+            Main();
+        }
+    }
+}
+
+
+
+
+
+enum ovi {auki, kiinni, lukossa};
