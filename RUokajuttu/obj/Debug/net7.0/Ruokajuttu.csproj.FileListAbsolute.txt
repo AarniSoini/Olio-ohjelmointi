@@ -1,0 +1,15 @@
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.csproj.AssemblyReference.cache
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.AssemblyInfoInputs.cache
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.AssemblyInfo.cs
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.csproj.CoreCompileInputs.cache
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\bin\Debug\net7.0\Ruokajuttu.exe
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\bin\Debug\net7.0\Ruokajuttu.deps.json
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\bin\Debug\net7.0\Ruokajuttu.runtimeconfig.json
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\bin\Debug\net7.0\Ruokajuttu.dll
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\bin\Debug\net7.0\Ruokajuttu.pdb
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.dll
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\refint\Ruokajuttu.dll
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.pdb
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\Ruokajuttu.genruntimeconfig.cache
+C:\Github\Projects\Olio-ohjelmointi\Ruokajuttu\obj\Debug\net7.0\ref\Ruokajuttu.dll
